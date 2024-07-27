@@ -6,8 +6,8 @@
 
 ### Sobre mim: 
 
-- 📚 Estudante de Defesa Cibernética e Programação com foco de atuação em Dev Back-End e implementação DevSecOps
-- 💻 Foco: Dev Back-End e DevSecOps
+- 📚 Estudante de Defesa Cibernética e Programação.
+- 💻 Foco: Dev Back-End e DevSecOps.
 - 🙇🏾 Habilidades: Resiliência, Trabalho em Equipe, Comunicação e Paciência.
 
 ### Tecnologias:
