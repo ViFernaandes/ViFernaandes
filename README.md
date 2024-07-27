@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**ViFernaandes/ViFernaandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Olá! Eu sou o Vinicius Fernandes 🖐🏾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-fernandes-a2bb88263/)
+
+### Sobre mim: 
+
+- 📚 Estudante de Defesa Cibernética e Programação com foco de atuação em Dev Back-End e implementação DevSecOps
+- 💻 Foco: Dev Back-End e DevSecOps
+- 🙇🏾 Habilidades: Resiliência, Trabalho em Equipe, Comunicação e Paciência.
+
+### Tecnologias:
+
+<div style="display: inline_block"><br/>
+    <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<div>
+
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViFernaandes&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViFernaandes&layout=compact)
+
