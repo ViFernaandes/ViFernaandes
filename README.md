@@ -17,5 +17,3 @@
 
 ### Métricas GitHub:
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViFernaandes&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViFernaandes&layout=compact)
-
